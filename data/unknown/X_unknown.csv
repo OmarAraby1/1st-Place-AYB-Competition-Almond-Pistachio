@@ -1,0 +1,101 @@
+Age,Gender,Dependent_count,Education_Level,Marital_Status,Income_Category,Card_Category,Months_on_book,Total_Relationship_Count,Months_Inactive_12_mon,Contacts_Count_12_mon,Total_Revolving_Bal,Avg_Open_To_Buy,Total_Amt_Chng_Q4_Q1,Total_Trans_Amt,Total_Ct_Chng_Q4_Q1,Avg_Utilization_Ratio
+27,F,0,Graduate,Single,Less than $40K,Blue,36,6,1,2,1598,79.0,0.994,2389,0.536,0.953
+32,F,1,High School,Single,Less than $40K,Blue,16,2,3,1,2517,1031.0,0.818,15157,0.865,0.709
+33,M,2,College,Married,$120K +,Gold,20,2,1,4,0,34516.0,1.004,9338,0.622,0.0
+34,M,2,Uneducated,Single,$120K +,Blue,13,6,3,2,2049,2320.0,0.865,3259,0.6,0.469
+35,M,2,Uneducated,Single,$60K - $80K,Blue,16,6,3,2,0,18278.0,0.798,2084,1.103,0.0
+35,F,3,Uneducated,Single,Less than $40K,Blue,23,3,2,2,1251,1607.0,0.576,2844,0.622,0.438
+35,M,1,Doctorate,Single,$80K - $120K,Blue,27,3,2,2,2517,387.0,0.624,2653,0.586,0.867
+35,F,1,Unknown,Married,$40K - $60K,Blue,26,6,4,4,1707,338.0,0.577,2183,0.696,0.835
+35,M,1,Unknown,Single,$60K - $80K,Blue,25,6,3,2,2001,4052.0,0.743,2208,0.595,0.331
+36,F,2,Graduate,Unknown,Less than $40K,Blue,36,5,2,4,2517,594.0,0.646,2367,0.519,0.809
+36,F,3,High School,Single,Unknown,Blue,23,6,3,4,2090,714.0,1.248,2812,1.081,0.745
+36,M,3,High School,Married,$80K - $120K,Blue,36,5,3,2,1880,727.0,1.464,2045,0.95,0.721
+37,F,2,High School,Married,Less than $40K,Blue,36,3,2,1,1782,806.0,0.546,4159,0.766,0.689
+37,M,2,Uneducated,Single,$60K - $80K,Blue,36,4,2,2,2517,8902.0,1.211,3000,1.059,0.22
+38,F,2,College,Married,Unknown,Blue,29,2,1,0,1172,2637.0,0.9,4314,0.976,0.308
+38,M,3,College,Married,$60K - $80K,Blue,36,5,2,2,1461,4653.0,0.772,2608,0.385,0.239
+38,M,3,Graduate,Single,$60K - $80K,Blue,25,3,3,4,0,18293.0,0.571,2958,0.432,0.0
+38,F,1,High School,Single,$40K - $60K,Blue,36,1,2,3,1103,1045.0,0.602,4711,0.882,0.514
+39,F,1,Unknown,Single,Less than $40K,Blue,28,3,2,1,0,1438.3,0.799,4173,0.64,0.0
+39,M,2,Graduate,Married,$80K - $120K,Blue,22,5,4,2,2517,2623.0,0.876,1842,0.714,0.49
+39,M,2,College,Married,$60K - $80K,Blue,26,3,1,4,1573,1158.0,0.943,1813,0.727,0.576
+39,F,2,High School,Single,Less than $40K,Blue,36,4,3,3,855,583.3,0.662,4890,0.893,0.594
+39,F,2,Graduate,Single,$40K - $60K,Blue,34,5,2,4,0,5858.0,0.853,3355,0.604,0.0
+39,F,2,Uneducated,Single,Less than $40K,Blue,36,3,2,3,2031,339.0,0.889,4000,0.975,0.857
+39,M,2,Post-Graduate,Unknown,$80K - $120K,Blue,29,1,1,3,1501,8458.0,0.822,8505,0.536,0.151
+39,F,3,Uneducated,Divorced,Unknown,Blue,36,4,3,3,0,2809.0,0.854,2466,0.538,0.0
+40,F,1,College,Married,$40K - $60K,Blue,36,4,2,4,1689,48.0,0.644,2459,0.536,0.972
+40,F,2,Uneducated,Married,Unknown,Blue,36,3,2,3,0,13019.0,0.487,1484,0.435,0.0
+40,M,1,Uneducated,Married,$80K - $120K,Blue,36,6,3,2,584,1186.0,0.706,4442,0.844,0.33
+40,M,3,High School,Married,$60K - $80K,Blue,28,2,3,1,2365,9111.0,0.65,8110,0.766,0.206
+40,F,3,Uneducated,Single,Unknown,Blue,36,3,2,2,478,3220.0,0.611,2051,0.632,0.129
+40,M,4,Unknown,Divorced,$40K - $60K,Gold,28,4,2,2,1788,22193.0,0.631,1421,0.308,0.075
+40,F,4,Uneducated,Married,Unknown,Blue,36,3,3,1,0,2887.0,0.581,3941,1.158,0.0
+40,F,1,High School,Married,Less than $40K,Blue,36,6,3,2,0,4712.0,0.84,4216,0.64,0.0
+40,M,2,Graduate,Married,$80K - $120K,Blue,28,6,2,3,1172,2482.0,0.938,4003,0.595,0.321
+41,M,3,Unknown,Married,$60K - $80K,Silver,29,1,3,4,0,27945.0,0.902,8345,1.059,0.0
+42,F,1,College,Married,Unknown,Blue,33,4,4,3,1328,1791.0,0.967,4659,0.673,0.426
+42,F,3,Graduate,Divorced,Less than $40K,Blue,36,5,2,3,2517,1197.0,0.857,4715,0.848,0.678
+42,M,3,High School,Single,$60K - $80K,Blue,36,4,4,3,795,2542.0,0.524,3951,0.619,0.238
+43,M,3,Uneducated,Single,$80K - $120K,Blue,30,3,2,4,0,11336.0,0.691,1809,0.345,0.0
+43,F,4,Graduate,Divorced,Unknown,Blue,23,6,3,2,2430,757.0,0.617,1387,1.357,0.762
+43,M,4,Unknown,Married,$40K - $60K,Blue,36,5,3,0,1799,6330.0,0.566,1402,0.737,0.221
+43,F,4,Unknown,Single,Unknown,Blue,28,2,2,1,1934,904.0,0.873,8644,0.554,0.681
+43,M,2,College,Married,$60K - $80K,Blue,28,4,2,3,1355,20802.0,0.69,1911,0.571,0.061
+43,F,1,Unknown,Divorced,Less than $40K,Blue,36,4,2,3,1272,1365.0,0.728,1569,1.053,0.482
+44,M,2,Unknown,Married,$60K - $80K,Blue,34,4,4,4,1146,2682.0,0.681,4558,0.636,0.299
+44,F,2,High School,Single,Less than $40K,Blue,31,3,3,3,168,1338.0,0.671,2312,0.467,0.112
+44,F,2,Unknown,Unknown,Less than $40K,Blue,32,5,1,3,1777,3075.0,0.667,1775,1.037,0.366
+44,F,3,Unknown,Married,Unknown,Blue,25,6,1,3,2232,17665.0,0.672,3979,0.5,0.112
+44,F,4,High School,Single,Less than $40K,Blue,36,6,2,3,1429,227.0,0.777,4258,0.75,0.863
+44,F,1,Unknown,Divorced,Unknown,Blue,36,3,2,1,1289,15827.0,0.559,3632,0.923,0.075
+45,F,2,Graduate,Single,$40K - $60K,Blue,36,5,4,3,986,452.3,0.649,5136,0.8,0.686
+45,F,2,Unknown,Single,Less than $40K,Silver,36,2,2,3,789,12237.0,0.74,14747,0.724,0.061
+45,F,3,Graduate,Single,$40K - $60K,Blue,36,5,2,2,883,5391.0,0.626,4726,0.708,0.141
+45,M,5,Doctorate,Married,$120K +,Silver,36,6,1,4,2038,32478.0,1.007,4067,1.206,0.059
+45,F,5,Graduate,Married,Less than $40K,Blue,36,4,1,2,1037,1252.0,0.504,4483,0.5,0.453
+46,F,1,Graduate,Married,Unknown,Blue,24,3,3,2,1576,1118.0,0.494,2041,0.9,0.585
+46,M,2,Graduate,Married,$40K - $60K,Blue,39,4,3,1,0,1610.0,0.689,4958,0.776,0.0
+46,F,3,Uneducated,Divorced,$40K - $60K,Blue,39,2,3,2,965,2192.0,0.928,3300,0.568,0.306
+46,F,4,Graduate,Married,$40K - $60K,Blue,34,5,3,1,1446,2706.0,0.826,2218,0.304,0.348
+47,M,3,Doctorate,Married,$60K - $80K,Blue,36,6,3,1,1214,370.0,0.887,2628,0.64,0.766
+47,F,5,Uneducated,Married,Less than $40K,Blue,36,1,6,1,1419,872.0,0.725,4498,0.761,0.619
+48,M,4,Graduate,Married,$60K - $80K,Blue,36,2,3,3,1499,573.0,0.598,4091,0.651,0.723
+48,F,4,Unknown,Unknown,Less than $40K,Blue,36,4,3,2,1744,662.0,0.694,4748,0.692,0.725
+48,F,5,Uneducated,Married,Unknown,Blue,36,4,2,3,2200,3295.0,0.696,5125,0.771,0.4
+49,F,2,Uneducated,Married,Less than $40K,Blue,34,6,2,4,1465,3777.0,1.025,4098,0.789,0.279
+49,F,3,High School,Divorced,Unknown,Blue,40,3,3,2,0,5267.0,0.442,1353,0.263,0.0
+49,F,3,Graduate,Single,Unknown,Blue,37,4,3,4,545,16800.0,0.905,3523,0.829,0.031
+49,M,4,High School,Unknown,$80K - $120K,Blue,31,2,3,3,2517,31999.0,0.71,3990,1.031,0.073
+49,M,5,Graduate,Married,$60K - $80K,Silver,38,1,1,2,2088,27443.0,0.843,15039,0.69,0.071
+50,F,1,High School,Married,Less than $40K,Blue,32,4,1,3,1276,779.0,0.869,5025,0.707,0.621
+50,F,1,Graduate,Single,Less than $40K,Blue,36,1,3,4,502,1920.0,0.997,2548,0.484,0.207
+50,M,2,College,Married,$60K - $80K,Blue,36,2,2,1,1664,10635.0,0.879,15060,0.915,0.135
+50,M,3,High School,Single,$40K - $60K,Blue,31,5,3,3,1597,8352.0,0.659,3776,0.596,0.161
+50,F,3,High School,Single,Less than $40K,Silver,38,3,2,2,2167,10402.0,0.634,7344,0.696,0.172
+50,F,4,College,Married,Unknown,Blue,36,6,4,3,0,3862.0,0.578,4058,0.723,0.0
+51,F,2,Doctorate,Married,Less than $40K,Platinum,42,3,2,3,193,15794.0,0.435,2021,0.394,0.012
+51,F,2,College,Single,Less than $40K,Blue,37,4,4,2,2508,756.0,0.887,4966,0.814,0.768
+51,M,2,High School,Single,$60K - $80K,Blue,42,1,3,2,1140,15563.0,0.555,15472,0.768,0.068
+51,F,2,Unknown,Single,Less than $40K,Blue,43,5,3,2,0,3245.0,0.553,1977,0.261,0.0
+53,F,1,Graduate,Married,$40K - $60K,Blue,36,4,1,2,1590,453.0,0.618,4940,0.619,0.778
+53,F,0,High School,Single,Less than $40K,Blue,44,4,1,1,886,1018.0,0.695,4798,0.809,0.465
+53,M,3,Uneducated,Single,$60K - $80K,Blue,36,6,2,2,1607,5229.0,0.524,4421,0.542,0.235
+54,M,5,College,Single,$60K - $80K,Blue,45,6,1,3,0,20401.0,0.723,4637,0.562,0.0
+54,F,4,Graduate,Single,Less than $40K,Silver,36,3,2,3,0,13626.0,0.411,1711,0.25,0.0
+54,F,2,Graduate,Married,Unknown,Blue,47,4,3,3,1134,1022.0,0.669,4120,0.711,0.526
+55,F,1,Uneducated,Unknown,Less than $40K,Blue,36,1,2,1,2222,928.0,0.794,14750,0.655,0.705
+56,M,0,High School,Unknown,$120K +,Blue,49,2,2,2,2156,32360.0,0.698,8766,0.814,0.062
+56,M,2,Graduate,Married,$60K - $80K,Blue,44,3,1,2,1928,115.0,0.791,2311,0.839,0.944
+56,F,2,Graduate,Divorced,Less than $40K,Blue,45,4,2,4,1690,270.0,0.63,3870,0.558,0.862
+56,F,3,Graduate,Married,$40K - $60K,Blue,44,6,3,4,0,1544.0,0.315,1902,0.4,0.0
+56,M,3,High School,Married,$60K - $80K,Blue,37,3,3,3,2517,12034.0,0.92,1373,0.591,0.173
+57,M,2,Unknown,Married,$80K - $120K,Blue,46,2,3,0,1740,17131.0,1.727,1516,2.0,0.092
+57,M,2,Graduate,Unknown,$60K - $80K,Blue,45,4,1,2,1584,896.0,0.874,3438,0.784,0.639
+57,M,3,College,Married,$80K - $120K,Blue,45,6,3,4,0,14270.0,0.398,1222,0.423,0.0
+58,F,1,Doctorate,Married,Less than $40K,Blue,47,5,3,4,2061,434.0,0.849,4399,0.707,0.826
+60,F,2,College,Single,Less than $40K,Blue,54,5,3,2,1923,771.0,0.714,3837,0.732,0.714
+62,F,1,High School,Married,Less than $40K,Blue,48,5,3,1,1985,1155.0,1.346,1626,0.864,0.632
+65,F,0,High School,Single,Unknown,Blue,56,3,6,3,477,5417.0,1.015,1616,0.455,0.081
+65,F,1,Unknown,Married,Unknown,Blue,53,5,3,2,2312,13653.0,0.59,1619,0.538,0.145
